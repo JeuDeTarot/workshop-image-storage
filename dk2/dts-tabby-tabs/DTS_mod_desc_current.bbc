@@ -1,11 +1,8 @@
-[h1]Overview[/h1]
-The [b]Deploy Tab System[/b] is an modder resource that contains five ready-to-go templates to be used with your own brand new unit(s) you made.
+The [b]Deploy Tab System[/b] is an modder resource that contains five ready-to-go templates to be used with your own brand new or existing unit(s) you made.
 
-These [b]templates[/b] are heavily commented, polished, and have the same common structure between them, so [b]you'll be fine[/b].
+These [b]templates[/b] are heavily commented, polished, and have the same common structure between them, and If you have a little XML know-how you can edit them to your liking, so [b]you'll be fine[/b].
 
-Also, there are pre-made units for each of the templates so you can just download the mod, toggle on, and take a look how these tabs are working in-game and pick which one you like the best, or if you have a little XML know-how you can edit them to your liking
-
-[img] https://raw.githubusercontent.com/JeuDeTarot/workshop-image-storage/refs/heads/main/dk2/dts-tabby-tabs/DTS_5tab_showcase.gif [/img]
+[img] https://raw.githubusercontent.com/JeuDeTarot/workshop-info-storage/refs/heads/main/dk2/dts-tabby-tabs/DTS_5tab_showcase_314.gif [/img]
 
 [h1]Key Patch Notes Changes - v1.01[/h1]
 [list]
@@ -14,9 +11,9 @@ Also, there are pre-made units for each of the templates so you can just downloa
 [/list]
 
 [h1]Showcase Units[/h1]
-Each template is represented by an distinct unit and also, if any in doubt there is one more showcase unit to compare every variants together in one form
+For each of the templates there are pre-made units that goes with them so you can take a look how these tabs are working in-game and pick which one you like the best, or if you have a little XML know-how you can edit them to your liking. If any in doubt there is one more showcase unit to compare every variants together in one form.
 
-So you can just download this mod, toggle on, and take a look how these tabs working in-game.
+So, just download this mod, toggle on, and take a look how these tabs working in-game.
 
 [h1]F.A.Q.[/h1]
 [b]Is it hard to re-use?[/b]
@@ -24,3 +21,5 @@ Absolutely no.
 
 [b]Should I credit you guys?[/b]
 Yes please.
+
+[img] https://raw.githubusercontent.com/JeuDeTarot/workshop-info-storage/refs/heads/main/dk2/dts-tabby-tabs/DTS_2tab_showcase_314.gif [/img]
